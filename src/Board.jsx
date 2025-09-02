@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState, } from 'react';
 import Cell from './Cell';
 import gemSound from './assets/gem-sound.mp3';
 import bombSound from './assets/bomb-sound.mp3';
